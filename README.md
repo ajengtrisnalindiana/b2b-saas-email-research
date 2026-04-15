@@ -16,7 +16,14 @@ Collect insights from 10 real B2B SaaS experts and organize their latest content
 ## Experts selected
 - Lenny Rachitsky
 - Alex Hormozi
-- 
+- Emily Kramer
+- Jason M. Lemkin
+- Kyle Poyar
+- Nick Franklin
+- Nathan May
+- Tyler Cook
+- Oren Greenberg
+- Dave Gerhardt
 
 ## Data collected
 - LinkedIn posts

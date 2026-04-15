@@ -47,6 +47,7 @@ This video was selected because it explains a real high-scale email marketing ca
 0:56 - weren't performing as well and all of a
 0:58 - sudden we thought oh my gosh we might
 0:59 - not head our quarterly Revenue goals
+
 1:01 - what else can we figure out enter the
 1:03 - email campaign cool so let's walk
 1:05 - through the numbers so the email list
@@ -70,6 +71,7 @@ This video was selected because it explains a real high-scale email marketing ca
 1:57 - automated selling machine so you can
 1:58 - just crank on adsen with just this
 1:59 - particular business does it's a nine
+
 2:01 - figure company in terms of annual
 2:02 - revenue but we're like hey one of the
 2:05 - other stats about email that's important
@@ -102,6 +104,7 @@ This video was selected because it explains a real high-scale email marketing ca
 2:56 - like it is one of the easiest ways to
 2:57 - just immediately plug in and print money
 2:59 - and then the nice thing is is that even
+
 3:01 - if it's late to the game I mean this
 3:02 - this business does a lot of money uh you
 3:06 - can still employ it and then immediately
@@ -136,7 +139,6 @@ This video was selected because it explains a real high-scale email marketing ca
 4:07 - it was a 7-day challenge
 4:09 - and the reason this is interesting and important is
 4:11 - that this came from the marketing director
-
 4:14 - and I think the reason I want to highlight this is
 4:17 - this is why you need to have smart people
 4:19 - it didn’t come from me, it didn’t come from the founder
@@ -146,18 +148,16 @@ This video was selected because it explains a real high-scale email marketing ca
 4:30 - and added over a hundred million in enterprise value to the business
 4:34 - remember, this is already a multi-hundred-million-dollar business
 4:37 - so adding 10–20% to enterprise value is a big deal
-
 4:40 - the second thing is this challenge came from the product itself
 4:43 - we pulled something we already knew worked
 4:46 - and turned it into a lead magnet
 4:49 - a lead magnet is a complete solution to a narrow problem
 4:52 - and once you solve that, you create the next problem
 4:55 - which your main offer solves
-
 4:58 - that’s what a good lead magnet does
+
 5:00 - this is why challenges are strong lead magnets
 5:03 - they also satisfy the value equation from my book $100M Offers
-
 5:07 - the value equation works like this
 5:10 - you have the desired outcome
 5:12 - multiplied by perceived likelihood of achievement
@@ -165,19 +165,16 @@ This video was selected because it explains a real high-scale email marketing ca
 5:17 - then divided by time delay
 5:20 - how long it takes
 5:22 - and effort and sacrifice required
-
 5:25 - a challenge works well because it has a clear outcome
 5:28 - high likelihood of success
 5:30 - fast results
 5:32 - and low perceived effort
-
 5:34 - if you want to experience this, you can join our challenge for free
 5:37 - we walk you through everything step by step
 5:40 - we help people get their first business online
 5:43 - and we take live calls inside the community
 5:46 - once a month I run a full-day mastermind training
 5:49 - focused on helping people get their first dollar
-
 5:52 - so for this business, the outcome takes time
 5:55 - so we created a mini version of it
 5:58 - a short challenge that gives a taste of the result
@@ -187,82 +184,65 @@ This video was selected because it explains a real high-scale email marketing ca
 6:07 - it builds belief and momentum
 6:10 - they take action and get a quick win
 6:12 - which leads into the bigger offer
-
 6:14 - challenges also approximate brand
 6:17 - in direct response marketing, this is important
 6:20 - because people don’t have long-term relationships with you yet
 6:22 - so you compress a relationship into 7 days
 6:25 - like a fast-track onboarding experience
-
 6:28 - you “microwave” the prospect instead of slow cooking them
 6:31 - this warms them up quickly for the offer
-
 6:34 - in our case, we call it the school games
 6:37 - with leaderboards and prizes
 6:40 - we help people start a business online
 6:42 - about 1 in 3 get their first dollar within a month
-
 6:45 - now let’s go back to the numbers
 6:48 - we sent emails to a small subsegment of the list
 6:51 - about 464,000 people
 6:54 - roughly 15% of the full list
-
 6:57 - we did this to test before rolling it out widely
-7:00 - we didn’t want to risk the entire list
 
+7:00 - we didn’t want to risk the entire list
 7:03 - from that, 10,000 people registered
 7:06 - we had an 18% open rate
 7:09 - and about 5% clicked through
-
 7:12 - from 464,000, about 83,000 opened
 7:15 - and 10,000 registered
-
 7:18 - then about 8,000 people bought
 7:21 - that’s roughly an 8% conversion rate
 7:24 - on a $2,000 price point
 7:27 - that generated $1.6 million in sales
-
 7:30 - then 20% upgraded into an additional product
 7:33 - which added another $800K
 7:36 - bringing total revenue to $2.4 million
-
 7:39 - that comes out to about $6 per email
 7:42 - from a 464,000-person segment
-
 7:45 - if you do this quarterly, it becomes a powerful system
 7:48 - you run a conversion mechanism every quarter
 7:51 - with a strong lead magnet and deadline
 7:54 - and you clean your list regularly
-
 7:57 - we later repeated the same campaign
+
 8:00 - and generated another $2.2 million
 8:03 - proving the system works again
-
 8:06 - next quarter we’ll scale it to the full list
 8:09 - using everything we learned from the tests
-
 8:12 - always test with 10–15% of your list first
 8:15 - before rolling it out broadly
-
 8:18 - you can improve results by testing subject lines
 8:21 - emails, CTAs, landing pages, and offers
 8:24 - small changes can double or triple performance
-
 8:27 - also vary the naming and framing of the challenge
 8:30 - even if the core offer stays the same
 8:33 - you can wrap it differently for each campaign
-
 8:36 - the core business doesn’t change
 8:39 - but positioning does
-
 8:42 - finally, do a quarterly cleanup strategy
 8:45 - re-engage your list every quarter
 8:48 - with a structured conversion event
-
 8:51 - this alone can dramatically increase revenue
 8:54 - by reactivating non-buyers
-
 8:57 - and always test before scaling to your full list
+
 9:00 - so you don’t risk list fatigue or damage
 9:02 - of numbers to this campaign and then
 9:04 - I'll walk you through it happened so we
@@ -289,6 +269,7 @@ This video was selected because it explains a real high-scale email marketing ca
 9:53 - of five people opened the actual email
 9:56 - okay great now from there we had about
 9:58 - five % of those people actually click to
+
 10:03 - join the thing and then the rest was the
 10:05 - optim percentage on the page to register
 10:07 - that got us to 10,000 so it went from
@@ -321,6 +302,7 @@ This video was selected because it explains a real high-scale email marketing ca
 10:54 - play but you just put a different
 10:56 - wrapper on it so for example in the gym
 10:58 - world cuz I came from this world it's
+
 11:00 - like I might have a six week uh you know
 11:02 - six week challenge I might have a 42-day
 11:04 - fix I might have a 42-day transformation
@@ -349,6 +331,7 @@ This video was selected because it explains a real high-scale email marketing ca
 11:53 - I'll just I know that the high level and
 11:55 - so from 10,000 we had 800 people who
 11:58 - actually bought all right so we had
+
 12:01 - about 8% of people who made the purchase
 12:03 - which is pretty good not unhappy about
 12:05 - that at all do I think we can improve it
@@ -375,6 +358,7 @@ This video was selected because it explains a real high-scale email marketing ca
 12:50 - derived from a list that was 464,000
 12:54 - emails and so that means we were making
 12:56 - roughly six bucks per email in this
+
 13:00 - campaign and so if you know that you do
 13:03 - this call it four times a year which I
 13:06 - would recommend you do when we get into
@@ -407,6 +391,7 @@ This video was selected because it explains a real high-scale email marketing ca
 13:54 - list and so you've deposited some
 13:55 - Goodwill that earns you the right to be
 13:57 - able to ask for the sale so let me walk
+
 14:00 - you through the takeaways that we had
 14:01 - from this that you can use for your own
 14:03 - business to make more money so there's
@@ -440,6 +425,7 @@ This video was selected because it explains a real high-scale email marketing ca
 14:55 - all right so I say this is still his
 14:56 - first kind of people related for this is
 14:58 - you still got to trust those people and
+
 15:00 - make a bet with them and part of the
 15:02 - reason I say trust them obviously you
 15:03 - want to trust them because they're
@@ -473,6 +459,7 @@ This video was selected because it explains a real high-scale email marketing ca
 15:52 - can earn the ask and so make as many as
 15:56 - you can while also providing as much
 15:59 - value as you can which means that if you
+
 16:01 - want to make a lot of offers you just
 16:02 - got to provide that much more value now
 16:04 - with this particular instance we were
@@ -501,6 +488,7 @@ This video was selected because it explains a real high-scale email marketing ca
 16:54 - sale again and so all these people or
 16:57 - the majority of these buyers hadn't
 16:58 - bought this thing and so when we
+
 17:01 - asked again some people are afraid of
 17:02 - making the second ask but people get
 17:04 - busy you know they leave a shopping
@@ -529,6 +517,7 @@ This video was selected because it explains a real high-scale email marketing ca
 17:56 - with you based on the medium that you're
 17:58 - communicating in and so this is
 17:59 - something that I have found it also by
+
 18:01 - the way is a great way to vary products
 18:03 - up and so for example if you're an
 18:05 - educator I'll just use this because it's
@@ -560,6 +549,7 @@ This video was selected because it explains a real high-scale email marketing ca
 18:55 - and from my experience people will
 18:56 - appraise or judge the decision based on
 18:59 - that Medium exclusively so the fourth
+
 19:01 - takeaway is what I'll just call the
 19:03 - quarterly cleanup so this is probably
 19:06 - the most tactical recommendation that I
@@ -589,6 +579,7 @@ This video was selected because it explains a real high-scale email marketing ca
 19:54 - wait a quarter we just did it the next
 19:55 - month and so I say this because this
 19:58 - stuff works and once you know it works
+
 20:00 - you can keep duplicating it over and
 20:01 - over again and guess what we're going to
 20:02 - do next quarter now that we know that we
@@ -621,6 +612,7 @@ This video was selected because it explains a real high-scale email marketing ca
 20:54 - and appear different to the non-buyer
 20:56 - who doesn't buy on the first hack or the
 20:58 - second hack we change the naming of it
+
 21:00 - or the wrapper of it so change the
 21:02 - landing page change the subject head of
 21:03 - the email change the name of the
