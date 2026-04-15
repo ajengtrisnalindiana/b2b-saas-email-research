@@ -1,27 +1,21 @@
 ## Jason M Lemkin - LinkedIn Content
 
 ## Identity
-Role: Founder & CEO of SaaStr
-
-Known for: SaaStr (B2B SaaS community, newsletter, events)
-
-Primary platform: LinkedIn, SaaStr blog, Podcast
-
-Audience: B2B SaaS founders, CEOs, revenue leaders, marketers
-
-Link: https://www.linkedin.com/in/jasonmlemkin/
+- Role: Founder & CEO of SaaStr
+- Known for: SaaStr (B2B SaaS community, newsletter, events)
+- Primary platform: LinkedIn, SaaStr blog, Podcast
+- Audience: B2B SaaS founders, CEOs, revenue leaders, marketers
+- Link: https://www.linkedin.com/in/jasonmlemkin/
 
 ---
 
 ## Collected LinkedIn Posts
 
 ### Post : Does Outbound Still Work? — 13-Point Checklist
+
 - Date: April 17, 2024
-
 - Link: https://www.linkedin.com/posts/jasonmlemkin_does-outbound-still-work-its-funny-two-activity-7186823302806437888-nkCE
-
 - Topic: Outbound email effectiveness, cold outreach strategy
-
 - Summary:
 Jason addresses the question of whether outbound still works in B2B SaaS.
 He shares a 13-point checklist for making cold email actually effective,

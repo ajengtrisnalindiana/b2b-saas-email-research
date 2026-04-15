@@ -1,9 +1,8 @@
 # Jason M. Lemkin — SaaStr
+
 ## Resource
 - **Title:** We Sent 4,495 AI SDR Emails in 2 Weeks and Got The #1 Response Rate. Here's How (It's Not What You Think)
-
 - **Source:** The B2B Vault (summary of SaaStr original)
-
 - **Link:** https://www.theb2bvault.com/resources/we-sent-4-495-ai-sdr-emails-in-2-weeks-and-got-the-1-response-rate-heres-how-its-not-what-you-think
 
 ## Summary
